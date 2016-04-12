@@ -1,4 +1,4 @@
-class Delta < Formula
+class Launchbot < Formula
   desc "Launch, discover, and share containers from your desktop."
   homepage "http://launchbot.io"
   url "https://github.com/odewahn/homebrew-launchbot/releases/download/0.5.0/launchbot-0.5.0.tar.gz"
@@ -13,5 +13,5 @@ class Delta < Formula
   #test do
   #  system "#{bin}/delta", "--version"
   #end
-  
+
 end
